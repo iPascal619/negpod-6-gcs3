@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 month = input("Enter a month: ")
 if (month == "January" or month == "March" or month == "May" or month == "July" or month == "August"  or month == "October" or month == "December"):
     print("The month of " + month + " has 31 days")
